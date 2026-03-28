@@ -1,0 +1,5 @@
+{
+  "name": "Arduino Scale Interface",
+  "description": "A web interface for an Arduino-based scale using the Web Serial API.",
+  "requestFramePermissions": []
+}
